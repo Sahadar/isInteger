@@ -12,7 +12,7 @@ isInteger implementation based on ES6 [Number.isInteger](https://developer.mozil
 
 ## Description
 
-If the target value is an integer, return true, otherwise return false. If the value is NaN or infinite, return false.
+If the target value is an integer, return `true`, otherwise return `false`. If the value is `NaN` or `infinite`, return `false`.
 
 ## Examples
 
