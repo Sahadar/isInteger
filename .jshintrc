@@ -117,6 +117,7 @@
 		"test",
 		"asyncTest",
 		"define",
+		"isInteger",
 		
 		//nodejs
 		"global",
