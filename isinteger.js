@@ -1,4 +1,4 @@
-(function() {
+(function(scope) {
 	'use strict';
 
 	var isInteger = Number.isInteger || function (x) {
@@ -22,4 +22,4 @@
 			scope.isInteger = isInteger;
 		}
 	}
-})();
+})(this);
