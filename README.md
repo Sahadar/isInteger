@@ -4,6 +4,8 @@ isInteger implementation based on ES6 [Number.isInteger](https://developer.mozil
 
 [![Build Status](https://travis-ci.org/Sahadar/isInteger.svg)](https://travis-ci.org/Sahadar/isInteger)
 
+[NPM isinteger link](https://www.npmjs.com/package/isinteger)
+
 ## Installation
 * download from Github
 * npm: `npm install isinteger`
