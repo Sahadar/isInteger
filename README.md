@@ -26,7 +26,7 @@ isInteger("10");    // false
 
 ### For more working examples:
 
-[Check out tests file](https://github.com/Sahadar/tiny-deferred.js/blob/master/test/test.js)
+[Check out tests file](https://github.com/Sahadar/isInteger/blob/master/test/main.js)
 
 ## License
 
