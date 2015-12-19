@@ -9,6 +9,7 @@ isInteger implementation based on ES6 [Number.isInteger](https://developer.mozil
 ## Installation
 * download from Github
 * npm: `npm install isinteger`
+* bower: `bower install isinteger`
 
 ## Description
 
