@@ -1,0 +1,30 @@
+{
+  "name": "isinteger",
+  "main": "isinteger",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Sahadar/isInteger",
+  "authors": [
+    "Wojciech Dłubacz <wdsahadar@gmail.com>"
+  ],
+  "description": "isInteger implementation based on ES6 Number.isInteger specification",
+  "keywords": [
+	"Number",
+	"number",
+	"is-integer",
+	"isinteger",
+	"integer",
+	"int"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sahadar/isInteger"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
