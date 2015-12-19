@@ -24,6 +24,10 @@ isInteger(0);       // true
 isInteger("10");    // false
 ```
 
+### For more working examples:
+
+[Check out tests file](https://github.com/Sahadar/tiny-deferred.js/blob/master/test/test.js)
+
 ## License
 
 MIT
