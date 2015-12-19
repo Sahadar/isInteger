@@ -1,5 +1,5 @@
 {
-  "name": "isInteger",
+  "name": "isinteger",
   "version": "0.0.1",
   "description": "Number.isInteger method implementation",
   "author": "Wojciech Dłubacz <wojciech@dlubacz.pl> (http://sahadar.github.io)",
