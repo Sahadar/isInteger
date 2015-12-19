@@ -1,0 +1,24 @@
+{
+  "name": "isInteger",
+  "version": "0.0.1",
+  "description": "Number.isInteger method implementation",
+  "author": "Wojciech Dłubacz <wojciech@dlubacz.pl> (http://sahadar.github.io)",
+  "keywords": [
+	  "Number",
+	  "number",
+	  "is-integer",
+	  "isinteger",
+	  "integer",
+	  "int"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sahadar/isInteger"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "node ./test/testrunner.js"
+  },
+  "license": "MIT"
+}
