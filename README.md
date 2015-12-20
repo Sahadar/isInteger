@@ -3,6 +3,9 @@ isInteger
 isInteger implementation based on ES6 [Number.isInteger](https://developer.mozilla.org/pl/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger) specification
 
 [![Build Status](https://travis-ci.org/Sahadar/isInteger.svg)](https://travis-ci.org/Sahadar/isInteger)
+[![Dependency Status](https://david-dm.org/Sahadar/isInteger.svg)](https://david-dm.org/Sahadar/isInteger)
+[![devDependency Status](https://david-dm.org/Sahadar/isInteger/dev-status.svg)](https://david-dm.org/Sahadar/isInteger#info=devDependencies)
+[![License](https://img.shields.io/npm/l/isInteger.svg)](http://opensource.org/licenses/MIT)
 
 [NPM isinteger link](https://www.npmjs.com/package/isinteger)
 
