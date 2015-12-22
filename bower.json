@@ -1,12 +1,12 @@
 {
   "name": "isinteger",
   "main": "isinteger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/Sahadar/isInteger",
   "authors": [
     "Wojciech Dłubacz <wdsahadar@gmail.com>"
   ],
-  "description": "isInteger implementation based on ES6 Number.isInteger specification",
+  "description": "Dependency free isInteger implementation based on ES6 Number.isInteger specification",
   "keywords": [
 	"Number",
 	"number",
