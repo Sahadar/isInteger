@@ -2,7 +2,7 @@
 	'use strict';
 
 	var isInteger = Number.isInteger || function (x) {
-		return typeof value === "number" && isFinite(x) && Math.floor(x) === x;
+		return typeof x === "number" && isFinite(x) && Math.floor(x) === x;
 	};
 
 	//if sbd's using requirejs library to load deferred.js
